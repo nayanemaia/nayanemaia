@@ -13,9 +13,9 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 
-<br />
-### 📕 Latest Blog Posts
 
+### 📕 Latest Blog Posts
+[Blog do Da2k](https://blog.da2k.com.br)
 
 
 ### Connect with me:
@@ -26,10 +26,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
  
 
-<p>
-  Primeira linha do parágrafo.<br />
-  Segunda linha do parágrafo.
-</p>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=vue)
