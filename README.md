@@ -15,7 +15,10 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 ### 📕 Latest Blog Posts
-[Blog do Da2k](https://blog.da2k.com.br)
+- [Installing Geopandas on Windows](https://nayanemaia.medium.com/installing-geopandas-on-windows-aadd762c557c)
+- [How to create and interactive map of Brazil using Plotly.Express-Geojson in Python](https://medium.com/python-in-plain-english/how-to-create-a-interative-map-using-plotly-express-geojson-to-brazil-in-python-fb5527ae38fc)
+
+
 
 
 ### Connect with me:
