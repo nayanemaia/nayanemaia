@@ -34,6 +34,16 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=vue)
 
+
+
+<blockquote>
+  <p>
+    Esse é um bloco de citação.
+    Ele pode ter várias linhas.
+  </p>
+  <p>Inclusive, uma quebra de linha.</p>
+</blockquote>
+
 <!--
 **nayanemaia/nayanemaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
