@@ -3,9 +3,9 @@
 
 ## I am an agronomist turned data scientist, I am also a PhD student in agronomy with emphasis on soil science, climate change and artificial intelligence.
 
-- 💻 I’m currently working as a Data Science and Researcher 
+- 💻📈 I’m currently working as a Data Science and Researcher 
 - 🌱 I’m currently working with agronomist
-- 👯 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
+- 👯📊 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
 
 
 ### Languages and Tools:
@@ -15,7 +15,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 
-### 📕 Latest Blog Posts
+### 📊📕📈 Latest Blog Posts
 
 - [Installing Geopandas on Windows](https://nayanemaia.medium.com/installing-geopandas-on-windows-aadd762c557c)
 - [How to create and interactive map of Brazil using Plotly.Express-Geojson in Python](https://medium.com/python-in-plain-english/how-to-create-a-interative-map-using-plotly-express-geojson-to-brazil-in-python-fb5527ae38fc)
