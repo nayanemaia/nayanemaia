@@ -26,6 +26,9 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
  
 
+<p>
+  Primeira linha do parágrafo.<br />
+  Segunda linha do parágrafo.
 </p>
 
 
