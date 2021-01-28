@@ -18,7 +18,7 @@ Python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayane.maia1@gmail.com)](mailto:nayane.maia1@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
 
-
+------------------
 ### 📊📕📈 Latest Blog Posts
 
 - [Installing Geopandas on Windows](https://nayanemaia.medium.com/installing-geopandas-on-windows-aadd762c557c)
