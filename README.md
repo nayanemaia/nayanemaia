@@ -9,7 +9,6 @@
 
 
 ### Languages and Tools:
-------------------
 python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 ------------------
@@ -17,7 +16,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 ### 📕 Latest Blog Posts
-------------------
+
 - [Installing Geopandas on Windows](https://nayanemaia.medium.com/installing-geopandas-on-windows-aadd762c557c)
 - [How to create and interactive map of Brazil using Plotly.Express-Geojson in Python](https://medium.com/python-in-plain-english/how-to-create-a-interative-map-using-plotly-express-geojson-to-brazil-in-python-fb5527ae38fc)
 
@@ -39,11 +38,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 
-Título de nível 1
-==================
-  
-Título de nível 2
-------------------
+
 
 <!--
 **nayanemaia/nayanemaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
