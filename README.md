@@ -29,7 +29,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=buefy)
 
 
 
