@@ -31,7 +31,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=vue)
-! [Estatísticas GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = nayanemaia & show_icons = true )
+![Estatísticas GitHub do Anurag](https://github-readme-stats.vercel.app/api ? Username = nayanemaia & show_icons=true)
 
 
 
