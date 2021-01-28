@@ -11,12 +11,11 @@
 ### Languages and Tools:
 python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
-</p>
+
 
 <br />
 ### 📕 Latest Blog Posts
 
-<br />
 
 
 ### Connect with me:
