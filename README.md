@@ -31,10 +31,8 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=vue)
-![Estatísticas GitHub do Anurag](https://github-readme-stats.vercel.app/api ? Username = nayanemaia & show_icons=true)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true)
 
 <!--
 **nayanemaia/nayanemaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
