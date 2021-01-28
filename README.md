@@ -13,11 +13,11 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 </p>
 
-
+<br />
 ### 📕 Latest Blog Posts
 
+<br />
 
-</p>
 
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayanemaia)](https://github.com/nayanemaia)
