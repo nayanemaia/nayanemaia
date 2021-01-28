@@ -1,18 +1,17 @@
 ### Nayane Maia 👋
 
-### I am an agronomist turned data scientist 
 
+### I am an agronomist turned data scientist, I am also a PhD student in agronomy with emphasis on soil science, climate change and artificial intelligence.
+
+💻 I’m currently working as a Data Science and Reseacher 
+🌱 I’m currently working with agronomist
+👯 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
 <!--
 **nayanemaia/nayanemaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working as a Data Science and Reseacher 
+- 🌱 I’m currently working with agronomist
+- 👯 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
+
