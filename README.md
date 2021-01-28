@@ -8,6 +8,15 @@
 - 👯 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
 
 
+## Connect with me:
+
+
+
+
+## Languages and Tools:
+python, R, SQL, Pandas, Numpy, GitHub, Git, BI
+
+
 
 
 
