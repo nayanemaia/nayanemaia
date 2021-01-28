@@ -11,13 +11,13 @@
 ### Languages and Tools:
 python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
-
+</p>
 
 
 ### 📕 Latest Blog Posts
 
 
-
+</p>
 
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayanemaia)](https://github.com/nayanemaia)
@@ -27,7 +27,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
  
 
-
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayanemaia&show_icons=true&theme=vue)
