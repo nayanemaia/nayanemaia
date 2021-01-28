@@ -9,7 +9,7 @@
 
 
 ### Languages and Tools:
-python, R, SQL, Pandas, Numpy, GitHub, Git, BI
+Python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 ------------------
 
@@ -30,7 +30,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayane.maia1@gmail.com)](mailto:nayane.maia1@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
  
-
+------------------
 
 
 
