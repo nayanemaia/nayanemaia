@@ -13,7 +13,7 @@ python, R, SQL, Pandas, Numpy, GitHub, Git, BI
 
 
 
-# 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 
 
