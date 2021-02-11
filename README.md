@@ -9,7 +9,7 @@
 
 
 #### Languages and Tools:
-Python, R, SQL, Pandas, Numpy, GitHub, Git, BI
+Python, R, SQL, Pandas, Numpy, GitHub, Git, BI, Flourish
 
 #### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayanemaia)](https://github.com/nayanemaia)
