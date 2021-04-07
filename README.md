@@ -4,8 +4,8 @@
 ## I am an agronomist turned data scientist, I am also a PhD student in agronomy with emphasis on soil science, climate change and artificial intelligence.
 
 - 💻📈 I’m currently working as a Data Science and Researcher 
-- 🌱 I’m currently working with agronomist
-- 👯📊 I’m looking to collaborate on Data Science with groups as WiDS, Data Girls, Pyladies 
+- 🌱 I’m currently working with Agronomist
+- 👯📊 I’m looking to collaborate on Data Science with groups as WiDS Unesp, Neuron DS&AI/USP, Data Girls-USP, Pyladies 
 
 
 #### Languages and Tools:
