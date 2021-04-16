@@ -28,8 +28,7 @@ Python, R, Pandas, Numpy, Scikit-Learn, GitHub, Git, BI, Flourish
 
 ### 📊📕📈 Latest Scientific Articles using Data Science
 
-- [MULTIVARIATE ANALYSIS FOR CHARACTERIZATION OF WATER
-QUALITY NEAR A SMALL HYDROELECTRIC PLANT ](https://periodicos.ufms.br/index.php/RevAGB/article/view/9135)
+- [Multivariate analysis for characterization of water quality near a small hydroelectric plant](https://periodicos.ufms.br/index.php/RevAGB/article/view/9135)
 - [Price of Basic Food Basket in Brazil and the World (2003-2017): Causes and Consequences](http://www.journaljeai.com/index.php/JEAI/article/view/30093)
 ------------------
 
