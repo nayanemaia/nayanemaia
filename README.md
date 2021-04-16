@@ -19,9 +19,10 @@ Python, R, Pandas, Numpy, Scikit-Learn, GitHub, Git, BI, Flourish
 
 ------------------
 ### 📊📕📈 Latest Blog Posts
-
+[PT]
 - [Gerenciando e planejando meu primeiro Machine Learning](https://medium.com/neurondsai/gerenciando-e-planejando-meu-primeiro-machine-learning-6de7cf1abc99)
 - [Como fazer uma raspagem de dados (Web Scraping) que faça sentido para mim?!](https://medium.com/data-girls-neuron/como-fazer-uma-raspagem-de-dados-web-scraping-que-fa%C3%A7a-sentido-para-mim-11aecc0f776)
+-[EN]
 - [Installing Geopandas on Windows](https://nayanemaia.medium.com/installing-geopandas-on-windows-aadd762c557c)
 - [How to create and interactive map of Brazil using Plotly.Express-Geojson in Python](https://medium.com/python-in-plain-english/how-to-create-a-interative-map-using-plotly-express-geojson-to-brazil-in-python-fb5527ae38fc)
 - [My experience at Data Science summer school from Italy](https://www.linkedin.com/pulse/my-experience-data-science-summer-school-from-italy-nayane-maia/)
