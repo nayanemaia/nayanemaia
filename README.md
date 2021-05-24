@@ -20,6 +20,7 @@ Python, R, Pandas, Numpy, Scikit-Learn, TensorFlow, PyTorch, Geopandas, Matplotl
 ------------------
 ### 📊📕📈 Latest Blog Posts
 [PT]
+- [Customizando vários subplots no Matplotlib](https://medium.com/neurondsai/customizando-v%C3%A1rios-subplots-no-matplotlib-b8c51bc640bb)
 - [Gerenciando e planejando meu primeiro Machine Learning](https://medium.com/neurondsai/gerenciando-e-planejando-meu-primeiro-machine-learning-6de7cf1abc99)
 - [Como fazer uma raspagem de dados (Web Scraping) que faça sentido para mim?!](https://medium.com/data-girls-neuron/como-fazer-uma-raspagem-de-dados-web-scraping-que-fa%C3%A7a-sentido-para-mim-11aecc0f776)
 
