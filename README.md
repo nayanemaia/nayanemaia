@@ -24,6 +24,7 @@
 ------------------
 ### 📊📕📈 Latest Blog Posts
 [PT]
+- [Machine Learning: tudo o que você precisa saber](https://medium.com/neurondsai/machine-learning-tudo-o-que-voc%C3%AA-precisa-saber-40c498d2fd96)
 - [Customizando vários subplots no Matplotlib](https://medium.com/neurondsai/customizando-v%C3%A1rios-subplots-no-matplotlib-b8c51bc640bb)
 - [Gerenciando e planejando meu primeiro Machine Learning](https://medium.com/neurondsai/gerenciando-e-planejando-meu-primeiro-machine-learning-6de7cf1abc99)
 - [Como fazer uma raspagem de dados (Web Scraping) que faça sentido para mim?!](https://medium.com/data-girls-neuron/como-fazer-uma-raspagem-de-dados-web-scraping-que-fa%C3%A7a-sentido-para-mim-11aecc0f776)
