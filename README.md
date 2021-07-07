@@ -1,7 +1,7 @@
 ### Nayane Maia 👋
 
 
-## I am an agronomist turned data scientist, I am also a PhD student in agronomy with emphasis on soil science, climate change and artificial intelligence.
+## I am an agronomist turned data scientist, I am also a PhD student in Agronomy with emphasis on soil science, climate change and artificial intelligence.
 
 - 💻📈 I’m currently working as a Data Science and Researcher 
 - 🌱 I’m currently working with Agronomist
