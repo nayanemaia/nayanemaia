@@ -18,7 +18,6 @@
 #### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayanemaia)](https://github.com/nayanemaia)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayane-maia/)](https://www.linkedin.com/in/nayane-maia/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayane.maia1@gmail.com)](mailto:nayane.maia1@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://nayanemaia.medium.com/)](https://nayanemaia.medium.com/)
 
 ------------------
